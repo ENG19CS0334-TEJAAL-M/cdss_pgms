@@ -1,0 +1,15 @@
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\bin\Debug\net6.0\cdssprj.exe
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\bin\Debug\net6.0\cdssprj.deps.json
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\bin\Debug\net6.0\cdssprj.runtimeconfig.json
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\bin\Debug\net6.0\cdssprj.dll
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\bin\Debug\net6.0\cdssprj.pdb
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\cdssprj.csproj.AssemblyReference.cache
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\cdssprj.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\cdssprj.AssemblyInfoInputs.cache
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\cdssprj.AssemblyInfo.cs
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\cdssprj.csproj.CoreCompileInputs.cache
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\cdssprj.dll
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\refint\cdssprj.dll
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\cdssprj.pdb
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\cdssprj.genruntimeconfig.cache
+D:\DSU 1\SEM 6\CD&SS Compiler Design System Software\cdss_project\cdssprj\obj\Debug\net6.0\ref\cdssprj.dll
