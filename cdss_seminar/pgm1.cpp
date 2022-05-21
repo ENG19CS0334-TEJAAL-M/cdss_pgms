@@ -1,3 +1,4 @@
+//C++ program
 #include<iostream>
 #include<cmath>
 #include<ctime>
